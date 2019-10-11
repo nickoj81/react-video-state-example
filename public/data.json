@@ -1,0 +1,11 @@
+{
+    "header": {
+        "title": "HTML5 Player Exercise"
+    },
+    "contentUrl": "https://www.w3schools.com/html/mov_bbb",
+    "article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut ipsum pharetra, faucibus mauris nec, tempus sapien. Aenean accumsan orci semper cursus commodo. Cras fermentum lobortis massa, ac aliquet libero tincidunt non. Nullam et imperdiet orci, et lobortis urna. Aenean suscipit lacus sit amet auctor imperdiet. Cras dignissim quam ac orci lacinia faucibus. Phasellus vitae felis neque. Nunc porttitor at quam eu semper. Donec elementum eros sit amet arcu eleifend, eget tempus tortor dignissim. Morbi tincidunt mauris sapien, quis posuere nunc consectetur a. Praesent laoreet eros at bibendum ultricies. Vestibulum ex magna, consectetur in lorem in, vehicula tristique elit. Mauris nec tortor molestie, euismod dui faucibus, rhoncus urna. Mauris nibh eros, convallis at condimentum in, porttitor ac nisl. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse vehicula varius odio malesuada egestas.",
+    "playStateLabels": {
+        "playing": "video is playing",
+        "stopped": "video is not playing"
+    }
+}
