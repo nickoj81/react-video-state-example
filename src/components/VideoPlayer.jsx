@@ -47,7 +47,7 @@ const VideoPlayer = props => {
 
 
     return (
-        <div>
+        <div className="videoContainer">
             <video
                 className="video"
                 // width="320"

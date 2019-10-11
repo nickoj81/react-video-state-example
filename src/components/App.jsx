@@ -33,7 +33,7 @@ const App = props => {
     }
 
     return (
-        <div>
+        <div className="container">
             <Header title={header.title} />
             {
                 contentUrl && <VideoPlayer
